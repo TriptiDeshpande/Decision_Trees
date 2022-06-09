@@ -27,11 +27,11 @@ The attributes are as follows:
  Urban -- A factor with levels No and Yes to indicate whether the store is in an urban or rural location
 
  US -- A factor with levels No and Yes to indicate whether the store is in the US or not
-
  
 Problem Statement:
 A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
 Approach - A decision tree can be built with target variable Sale (we will first convert it in categorical variable) & all other variable will be independent in the analysis.  
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Decision_Trees (FraudCheck)
